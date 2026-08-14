@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+openai
+python-dotenv
+orjson
+pandas
+numpy
+scikit-learn
+sentence-transformers
+hdbscan
+umap-learn
+aiosqlite
+sqlalchemy
+pydantic
